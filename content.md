@@ -26,8 +26,6 @@ We are a technology company first, but with a major focus on consumer well-being
 
 [Create simple form for users to sign up]
 
-Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
-
 ### We have 2 pricing plans
 
 ### Photo gallery
